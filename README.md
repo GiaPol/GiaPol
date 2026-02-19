@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I am currently a 3rd-year Computer Science undergraduate student at the **University of Salerno** (Italy).
 
-I'm a curious and versatile developer: I don't tie myself to a single ecosystem, but rather enjoy exploring different frameworks and languages. What truly drives me is engineering solutions to real-world challenges. I love analyzing complex bottlenecks and choosing the right tech stack to turn them into tangible, impactful software.
+I'm a curious and versatile developer: I don't tie myself to a single ecosystem, but rather enjoy exploring different frameworks and languages. What truly drives me is engineering solutions to real-world challenges. I love analysing complex bottlenecks and choosing the right tech stack to turn them into tangible, impactful software.
 
 ---
 
@@ -37,8 +37,8 @@ I like to diversify and learn constantly. Here is my current tech stack:
 
 ### 🚀 Featured Projects
 
-* **[SINTONIA](https://github.com/gianfrancobarba/SINTONIA.git)** - SINTONIA is a proactive mental health ecosystem built with NestJS, React, and PostgreSQL. It employs a dynamic triage algorithm to prioritize patient care, utilizing a mobile app for continuous monitoring and a web dashboard for real-time specialist intervention.
-* **[KickProphet](https://github.com/aleds25/KickProphet)** - KickProphet is a Machine Learning tool designed to predict the success probability of Kickstarter campaigns before they launch. Powered by an optimized LightGBM + XGBoost ensemble and advanced NLP, it analyzes project descriptions and metadata to generate a precise "feasibility score" (Success/Fail probability).
+* **[SINTONIA](https://github.com/gianfrancobarba/SINTONIA.git)** - SINTONIA is a proactive mental health ecosystem built with NestJS, React, and PostgreSQL. It employs a dynamic triage algorithm to prioritise patient care, utilising a mobile app for continuous monitoring and a web dashboard for real-time specialist intervention.
+* **[KickProphet](https://github.com/aleds25/KickProphet)** - KickProphet is a Machine Learning tool designed to predict the success probability of Kickstarter campaigns before they launch. Powered by an optimised LightGBM + XGBoost ensemble and advanced NLP, it analyses project descriptions and metadata to generate a precise "feasibility score" (Success/Fail probability).
 * **[Tree-Time](https://github.com/AntonioWalter/Tree-Time.git)** - Tree-Time is a sustainable e-commerce platform engineered using Java EE and MySQL to master the fundamentals of web architecture. By implementing complete B2C/B2B workflows, session management, and a dynamic tracking dashboard without frameworks, this project demonstrates a deep understanding of core backend logic and relational database design.
 
 ---
