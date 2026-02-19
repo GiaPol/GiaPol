@@ -54,7 +54,6 @@ I firmly believe that discipline and consistency are fundamental both in studyin
 I'm always looking for new challenges, interesting projects, and networking opportunities. Feel free to reach out:
 
 - 💼 **LinkedIn:** [Gianni Policola](https://www.linkedin.com/in/gianni-policola-88909230a)
-- 📧 **Email:** [Send me an email](mailto:policolagianni@gmail.com)
 
 <br/>
 <p align="center">
